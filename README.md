@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://github-readme-stats.vercel.app/api?username=yoshixi&count_private=true&show_icons=true&theme=dracula
+![yoshixi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshixi&count_private=true&show_icons=true&theme=dracula)
